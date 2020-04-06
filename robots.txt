@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /page9150782.html
+Disallow: /footer
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow:
+Sitemap: http://integrati.ru/sitemap.xml
+Host: integrati.ru
